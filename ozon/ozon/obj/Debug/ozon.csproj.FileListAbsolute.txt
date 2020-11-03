@@ -1,0 +1,13 @@
+D:\Desktop\Projects\- Studying\ОС ~ Гунер М.В\OzonParse\ozon\ozon\bin\Debug\ozon.exe.config
+D:\Desktop\Projects\- Studying\ОС ~ Гунер М.В\OzonParse\ozon\ozon\bin\Debug\ozon.exe
+D:\Desktop\Projects\- Studying\ОС ~ Гунер М.В\OzonParse\ozon\ozon\bin\Debug\ozon.pdb
+D:\Desktop\Projects\- Studying\ОС ~ Гунер М.В\OzonParse\ozon\ozon\obj\Debug\ozon.csprojAssemblyReference.cache
+D:\Desktop\Projects\- Studying\ОС ~ Гунер М.В\OzonParse\ozon\ozon\obj\Debug\ozon.Form1.resources
+D:\Desktop\Projects\- Studying\ОС ~ Гунер М.В\OzonParse\ozon\ozon\obj\Debug\ozon.Properties.Resources.resources
+D:\Desktop\Projects\- Studying\ОС ~ Гунер М.В\OzonParse\ozon\ozon\obj\Debug\ozon.csproj.GenerateResource.cache
+D:\Desktop\Projects\- Studying\ОС ~ Гунер М.В\OzonParse\ozon\ozon\obj\Debug\ozon.csproj.CoreCompileInputs.cache
+D:\Desktop\Projects\- Studying\ОС ~ Гунер М.В\OzonParse\ozon\ozon\obj\Debug\ozon.exe
+D:\Desktop\Projects\- Studying\ОС ~ Гунер М.В\OzonParse\ozon\ozon\obj\Debug\ozon.pdb
+D:\Desktop\Projects\- Studying\ОС ~ Гунер М.В\OzonParse\ozon\ozon\bin\Debug\WebDriver.dll
+D:\Desktop\Projects\- Studying\ОС ~ Гунер М.В\OzonParse\ozon\ozon\bin\Debug\WebDriver.xml
+D:\Desktop\Projects\- Studying\ОС ~ Гунер М.В\OzonParse\ozon\ozon\obj\Debug\ozon.csproj.CopyComplete
